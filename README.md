@@ -1,2 +1,2 @@
-# Challenge-6-Assignment
+# Roller Splat Clone
 The Project files of my Roller Splat Clone in Unity
